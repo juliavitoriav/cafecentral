@@ -1,0 +1,103 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@100&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+#menu{
+    
+    height: 4em;
+    background-color: #822B27;
+}
+
+#menu img{
+    width: 4em;
+    float: left;
+
+}
+
+#menu a {
+    float: left;
+    color: white;
+    text-decoration: none;
+    margin-top: 22px;
+    margin-left: 5%;
+
+}
+
+#principal{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('cafeprincipal.jpg');
+    height: 250px;
+    background-size: 100%;
+    text-align: center;
+    color: white;
+    padding-top: 15%;
+
+}
+
+#principal h1{
+    margin: 0;
+}
+
+#principal p{
+    font-size: 20px;
+}
+
+#sobre {
+    background-color: #e8a69a;
+    text-align: center;
+    padding-top: 5%;
+    height: 390px;
+    margin-top: 0%;
+    
+
+}
+
+.foto{
+    
+    background-color: #e8a69a;
+    float: left;
+    width: 30%;
+    margin-left: 2.5%;
+
+}
+
+#produtos{
+    background-color: #291211;
+    margin-top: 0%;
+    color: white;
+    height: 300px;
+    padding-top: 5%;
+    font-size: 20px;
+}
+
+#produtos h1{
+    margin-top: 0%;
+}
+
+#fotosp{
+    width: 50%;
+    float: left;
+}
+
+#fotosp img{
+    width: 10%;
+    min-width: 200px;
+}
+
+#descrição button{
+    padding: 2%;
+}
+
+
+
+footer{
+    background-color: #ffdbca;
+    margin-top: 0%;
+    text-align: center;
+    padding: 2%;
+}
+
